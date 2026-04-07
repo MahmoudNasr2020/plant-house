@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan:*)",
+      "Bash(vendor/bin/pint --dirty)",
+      "Bash(mkdir -p app/Http/Controllers/Store)",
+      "Bash(mkdir -p resources/views/store/layouts resources/views/store/auth resources/views/admin/auth resources/views/admin/admins)",
+      "mcp__laravel-boost__tinker",
+      "mcp__laravel-boost__database-connections",
+      "Bash(ls \"D:\\\\Works\\\\website\\\\plant-house\\\\resources\\\\views\\\\store\"\" && ls \"D:Workswebsiteplant-house\"\")",
+      "Bash(vendor/bin/pint app/Http/Controllers/Store/HomeController.php --dirty)"
+    ]
+  }
+}
